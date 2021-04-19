@@ -79,7 +79,7 @@ p {
 .navbar {
 	position: absolute;
 	z-index: 99999;
-	top: 0;
+	top: 20px;
 	width: 100%;
 	padding: 1.8rem 1rem;
 	font-family: 'IBM Plex Sans', sans-serif;
